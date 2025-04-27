@@ -67,13 +67,13 @@ This project is a **3D Scene Management System** built with **Node.js** and **Ex
 
 12. **Postman Collection:**
 
-http://localhost:5000/api/auth/signup 
+http://localhost:5000/api/auth/signup (POST)
 
-http://localhost:5000/api/auth/login
+http://localhost:5000/api/auth/login (POST)
 
-http://localhost:5000/api/scenes
+http://localhost:5000/api/scenes (GET)
 
-http://localhost:5000/api/scenes/token_id
+http://localhost:5000/api/scenes/token_id (PATCH)
 
 
 
