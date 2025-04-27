@@ -21,9 +21,9 @@ This project is a **3D Scene Management System** built with **Node.js** and **Ex
 ![MongoDB_Connected](https://github.com/user-attachments/assets/a12915f9-1a34-4ed3-839a-897e918cf11c)
 
 
-3. **Clusters:**
+3. **Deploy Cloud using AWS**
 
-![MongoDB_Connected](https://github.com/user-attachments/assets/b1093a73-b283-473e-a6f8-9b31a81db061)
+![Clusters](https://github.com/user-attachments/assets/2d860f01-afca-4852-9361-9032402926ce)
 
 
 4. **Network Access:**
@@ -67,7 +67,7 @@ This project is a **3D Scene Management System** built with **Node.js** and **Ex
 
 12. **Postman Collection:**
 
-http://localhost:5000/api/auth/signup
+http://localhost:5000/api/auth/signup 
 
 http://localhost:5000/api/auth/login
 
@@ -76,7 +76,7 @@ http://localhost:5000/api/scenes
 http://localhost:5000/api/scenes/token_id
 
 
-13. **Deploy Cloud using AWS**
+
 
 
 
